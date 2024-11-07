@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas
+sweetviz
+seaborn
+pydantic==2.8.0
+fastapi[standard]==0.115.4
+streamlit
+joblib
+scikit-learn
+imblearn
